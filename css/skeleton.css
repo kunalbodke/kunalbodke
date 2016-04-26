@@ -123,8 +123,8 @@ html {
 body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
-  font-weight: 300;
-  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-family: 'Raleway', sans-serif;
   color: #22264b;
   background-color:#fff;
 }
@@ -418,4 +418,3 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
-
