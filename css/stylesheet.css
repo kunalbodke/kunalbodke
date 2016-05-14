@@ -95,6 +95,11 @@ img {
     color:#22264b;
 }
 
+
+.header-style{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
 /*body {
     background-image: url("/images/portfolio-icons.svg");
     background-repeat: no-repeat;
