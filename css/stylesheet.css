@@ -32,6 +32,14 @@ div#box a {
     }
 }
 }
+
+
+a.button.button-info {
+    margin: 10px;
+    color: #000;
+    border: 1px solid #000;
+}
+
 /* CONTACT STYLES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
