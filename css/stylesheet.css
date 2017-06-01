@@ -34,11 +34,7 @@ div#box a {
 }
 
 
-a.button.button-info {
-    margin: 10px;
-    color: #000;
-    border: 1px solid #000;
-}
+
 
 /* CONTACT STYLES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -69,6 +65,12 @@ a.button.button-info {
   text-decoration: none;
 }
 */
+
+.contact a.button.button-info {
+    margin: 10px;
+    color: #000;
+    border: 1px solid #000;
+}
 
 .contact .creator a {
     background: none;
