@@ -158,9 +158,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: #E3F2FD; }
 a:hover {
-  color: #0FA0CE; }
+  color: #eceff1; }
 
 
 /* Buttons
@@ -208,7 +208,7 @@ input[type="button"].button-primary {
   color: #014d8f;
   background-color: #ffffff;
   border-color: #ffffff;
-  box-shadow: 0.2em 0.2em 15px rgba(0, 10, 50, 0.2)
+  box-shadow: 0.2em 0.2em 10px #1A237E;
 }
 .button.button-primary:hover,
 button.button-primary:hover,
@@ -221,8 +221,8 @@ input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #008290;
-  background-color: #ffffff;
-  border-color: #ffffff; 
+  background-color: #fafafa;
+  border-color: #d8d8d8; 
   box-shadow:0px 0px rgba(255, 255, 255, 0);
 }
 

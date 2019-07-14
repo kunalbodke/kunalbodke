@@ -3,11 +3,12 @@ body {
   line-height: 1.6;
   font-weight: 700;
   font-family: "Roboto Mono", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #004148;
+  color: #eceff1;
+  background-color:#444;
 }
 
 p {
-	color:#030303;
+	color:#eceff1;
 	font-weight: 400;
 	letter-spacing: -0.2px;
    }
