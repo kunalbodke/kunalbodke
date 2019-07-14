@@ -208,7 +208,7 @@ input[type="button"].button-primary {
   color: #014d8f;
   background-color: #ffffff;
   border-color: #ffffff;
-  box-shadow: 0.2em 0.2em 60px rgba(0, 6, 45, 0.7);
+  box-shadow: 0.2em 0.2em 15px rgba(0, 10, 50, 0.2)
 }
 .button.button-primary:hover,
 button.button-primary:hover,
